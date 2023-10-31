@@ -11,6 +11,23 @@ Hello! I'm Moulithar, a front-end developer with a focus on React, HTML, CSS, an
 
 Feel free to explore my projects and join me on this exciting journey!
 
+### Work Experience
+
+- **Dossier Nexus (Current)**: Creating educational events and courses. Explore our platform at [Dossier Nexus](https://dossiernexus.com).
+
+- **Root Delivery**: Contributed to a household chores, services, and delivery website. Visit [Root Delivery](https://rootrs.com).
+
+- **Sundar and Co**: Previous experience in the clothes manufacturing industry in Erode. Learn more at [Sundar and Co](https://sundarandco.in).
+
+### Education
+
+I completed my Bachelor of Engineering in Mechatronics at Bannari Amman Institute of Technology from 2015 to 2019.
+
+### Professional Interests
+
+My professional interests include front-end development, learning new technologies, and mastering React. I'm passionate about creating user-friendly interfaces and collaborating with others to achieve the best results.
+
+Feel free to explore my projects and repositories, and join me on this exciting journey to master front-end development. Your insights and collaboration are always welcome!
 
 <!---
 Moulithar/Moulithar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
