@@ -13,7 +13,7 @@ Feel free to explore my projects and join me on this exciting journey!
 
 ### Work Experience
 
-- **Dossier Nexus (Current)**: Creating educational events and courses. Explore our platform at [Dossier Nexus](https://dossiernexus.com).
+- **Dossier Nexus (Current)**: Creating educational events and courses. Explore our platform at [Dossier Nexus](https://ui.dossiernexus.com).
 
 - **Root Delivery**: Contributed to a household chores, services, and delivery website. Visit [Root Delivery](https://rootrs.com).
 
