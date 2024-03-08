@@ -24,7 +24,7 @@ Feel free to explore my projects and join me on this exciting journey!
 - **Root Delivery**: Contributed to a household chores, services, and delivery website. Visit [Root Delivery](https://rootrs.com).
 
 - **Sundar and Co**: Previous experience in the clothes manufacturing industry in Erode. Learn more at [Sundar and Co](https://sundarandco.in).
-- 
+  
 ### Education
 
 I completed my Bachelor of Engineering in Mechatronics at Bannari Amman Institute of Technology from 2015 to 2019.
