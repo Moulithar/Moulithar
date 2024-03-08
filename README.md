@@ -13,12 +13,18 @@ Feel free to explore my projects and join me on this exciting journey!
 
 ### Work Experience
 
+- **Nutz Technovation, Erode (May 2023 - Present)**: Front End Developer
+
+- **UI Studio, Bengaluru (Jan 2022 - Apr 2023)**: UI Developer.
+
+### Work Samples
+
 - **Dossier Nexus (Current)**: Creating educational events and courses. Explore our platform at [Dossier Nexus](https://ui.dossiernexus.com).
 
 - **Root Delivery**: Contributed to a household chores, services, and delivery website. Visit [Root Delivery](https://rootrs.com).
 
 - **Sundar and Co**: Previous experience in the clothes manufacturing industry in Erode. Learn more at [Sundar and Co](https://sundarandco.in).
-
+- 
 ### Education
 
 I completed my Bachelor of Engineering in Mechatronics at Bannari Amman Institute of Technology from 2015 to 2019.
