@@ -11,6 +11,8 @@ Hello! I'm Moulithar, a front-end developer with a focus on React, HTML, CSS, an
 
 Feel free to explore my projects and join me on this exciting journey!
 
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
 ### Work Experience
 
 - **Nutz Technovation, Erode (May 2023 - Present)**: Front End Developer
