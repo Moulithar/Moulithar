@@ -11,9 +11,8 @@ Hello! I'm Moulithar, a front-end developer with a focus on React, HTML, CSS, an
 
 Feel free to explore my projects and join me on this exciting journey!
 
-![John Doe's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnDoe&show_icons=true&theme=radical)
+![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Moulithar&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johnDoe&layout=compact&theme=radical)
 
 ![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Moulithar&theme=radical)
 
