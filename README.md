@@ -1,4 +1,4 @@
-- 👋 Hello, I’m @Moulithar (React Js Developer)
+- 👋 Hi, I’m @Moulithar (React Js Developer)
 - 👀 I’m interested in making responsive Websites.
 - 🌱 I’m currently mastering React Js
   ## About Me
