@@ -6,7 +6,7 @@
 Hello! I'm Moulithar, a front-end developer with a focus on React, HTML, CSS, and Bootstrap. I'm a beginner in React and JavaScript, working toward mastering front-end development within a year. I'm enthusiastic about learning Redux, Redux Toolkit, TypeScript, and various React libraries.
 
 - Skills: React, HTML, CSS, Bootstrap, Javascript
-- Learning:TypeScript
+- Learning: TypeScript, AI/ML
 
 Feel free to explore my projects and join me on this exciting journey!
 
@@ -23,11 +23,7 @@ Feel free to explore my projects and join me on this exciting journey!
 
 ### Work Samples
 
-- **Dossier Nexus (Current)**: Creating educational events and courses. Explore our platform at [Dossier Nexus](https://ui.dossiernexus.com).
-
-- **Root Delivery**: Contributed to a household chores, services, and delivery website. Visit [Root Delivery](https://rootrs.com).
-
-- **Sundar and Co**: Previous experience in the clothes manufacturing industry in Erode. Learn more at [Sundar and Co](https://sundarandco.in).
+- **Dossier Nexus (Current)**: Creating educational events and courses. Explore our prodcut at [Dossier Nexus](https://app.dossiernexus.com).
   
 ### Education
 
@@ -37,7 +33,7 @@ I completed my Bachelor of Engineering in Mechatronics at Bannari Amman Institut
 
 My professional interests include front-end development, learning new technologies, and mastering React. I'm passionate about creating user-friendly interfaces and collaborating with others to achieve the best results.
 
-Feel free to explore my projects and repositories, and join me on this exciting journey to master front-end development. Your insights and collaboration are always welcome!
+Feel free to explore my projects and repositories, and join me on this exciting journey to master web development. Your insights and collaboration are always welcome!
 
 <!---
 Moulithar/Moulithar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
