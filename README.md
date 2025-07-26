@@ -5,9 +5,8 @@
 
 Hello! I'm Moulithar, a front-end developer with a focus on React, HTML, CSS, and Bootstrap. I'm a beginner in React and JavaScript, working toward mastering front-end development within a year. I'm enthusiastic about learning Redux, Redux Toolkit, TypeScript, and various React libraries.
 
-- Skills: React, HTML, CSS, Bootstrap
-- Learning: Redux, Redux Toolkit, TypeScript
-- Goals: Master front-end development in a year
+- Skills: React, HTML, CSS, Bootstrap, Javascript
+- Learning:TypeScript
 
 Feel free to explore my projects and join me on this exciting journey!
 
