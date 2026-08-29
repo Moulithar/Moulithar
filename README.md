@@ -15,11 +15,13 @@ Feel free to explore my projects and join me on this exciting journey!
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Moulithar&layout=compact&theme=radical)
 
 ### Work Experience
-- **Dossier Nexus Academia Private Limited, Coimbatore (May 2024 - Present)**: Front End Engineer
+
+- **Mallow Technologies, Coimbatore (Dec 2025 - Present)**: Developer
+
+- **Dossier Nexus Academia Private Limited, Coimbatore (May 2024 - Dec 2025)**: Front End Engineer
 
 - **Nutz Technovation, Erode (May 2023 - May 2024)**: Front End Developer
 
-- **UI Studio, Bengaluru (Jan 2022 - Apr 2023)**: UI Developer.
 
 ### Work Samples
 
